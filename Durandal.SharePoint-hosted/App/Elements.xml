@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="App">
+    <File Path="App\durandal\app.js" Url="App/durandal/app.js" />
+    <File Path="App\durandal\composition.js" Url="App/durandal/composition.js" />
+    <File Path="App\durandal\events.js" Url="App/durandal/events.js" />
+    <File Path="App\durandal\http.js" Url="App/durandal/http.js" />
+    <File Path="App\durandal\messageBox.html" Url="App/durandal/messageBox.html" />
+    <File Path="App\durandal\messageBox.js" Url="App/durandal/messageBox.js" />
+    <File Path="App\durandal\modalDialog.js" Url="App/durandal/modalDialog.js" />
+    <File Path="App\durandal\system.js" Url="App/durandal/system.js" />
+    <File Path="App\durandal\viewEngine.js" Url="App/durandal/viewEngine.js" />
+    <File Path="App\durandal\viewLocator.js" Url="App/durandal/viewLocator.js" />
+    <File Path="App\durandal\viewModel.js" Url="App/durandal/viewModel.js" />
+    <File Path="App\durandal\viewModelBinder.js" Url="App/durandal/viewModelBinder.js" />
+    <File Path="App\durandal\widget.js" Url="App/durandal/widget.js" />
+    <File Path="App\durandal\amd\almond-custom.js" Url="App/durandal/amd/almond-custom.js" />
+    <File Path="App\durandal\amd\r.js" Url="App/durandal/amd/r.js" />
+    <File Path="App\durandal\amd\require.js" Url="App/durandal/amd/require.js" />
+    <File Path="App\durandal\amd\text.js" Url="App/durandal/amd/text.js" />
+    <File Path="App\durandal\plugins\router.js" Url="App/durandal/plugins/router.js" />
+    <File Path="App\durandal\transitions\entrance.js" Url="App/durandal/transitions/entrance.js" />
+    <File Path="App\viewmodels\flickr.js" Url="App/viewmodels/flickr.js" />
+    <File Path="App\viewmodels\shell.js" Url="App/viewmodels/shell.js" />
+    <File Path="App\viewmodels\welcome.js" Url="App/viewmodels/welcome.js" />
+    <File Path="App\views\detail.html" Url="App/views/detail.html" />
+    <File Path="App\views\flickr.html" Url="App/views/flickr.html" />
+    <File Path="App\views\shell.html" Url="App/views/shell.html" />
+    <File Path="App\views\welcome.html" Url="App/views/welcome.html" />
+    <File Path="App\main.js" Url="App/main.js" />
+    <File Path="App\main-built.js" Url="App/main-built.js" />
+  </Module>
+</Elements>

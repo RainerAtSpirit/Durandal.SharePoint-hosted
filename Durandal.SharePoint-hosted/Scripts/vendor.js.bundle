@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bundle minify="true" runOnBuild="true">
+  <!--The order of the <file> elements determines the order of them when bundled.-->
+  <file>/Scripts/jquery-1.9.1.js</file>
+  <file>/Scripts/knockout-2.2.1.debug.js</file>
+  <file>/Scripts/sammy-0.7.4.js</file>
+  <file>/Scripts/bootstrap.js</file>
+</bundle>

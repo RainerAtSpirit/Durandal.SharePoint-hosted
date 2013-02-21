@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Scripts">
+    <File Path="Scripts\bootstrap.js" Url="Scripts/bootstrap.js" />
+    <File Path="Scripts\bootstrap.min.js" Url="Scripts/bootstrap.min.js" />
+    <File Path="Scripts\jquery-1.9.1.intellisense.js" Url="Scripts/jquery-1.9.1.intellisense.js" />
+    <File Path="Scripts\jquery-1.9.1.js" Url="Scripts/jquery-1.9.1.js" />
+    <File Path="Scripts\jquery-1.9.1.min.js" Url="Scripts/jquery-1.9.1.min.js" />
+    <File Path="Scripts\jquery-1.9.1.min.map" Url="Scripts/jquery-1.9.1.min.map" />
+    <File Path="Scripts\knockout-2.2.1.debug.js" Url="Scripts/knockout-2.2.1.debug.js" />
+    <File Path="Scripts\knockout-2.2.1.js" Url="Scripts/knockout-2.2.1.js" />
+    <File Path="Scripts\sammy-0.7.4.js" Url="Scripts/sammy-0.7.4.js" />
+    <File Path="Scripts\sammy-0.7.4.min.js" Url="Scripts/sammy-0.7.4.min.js" />
+    <File Path="Scripts\vendor.js.bundle" Url="Scripts/vendor.js.bundle" />
+    <File Path="Scripts\vendor.js" Url="Scripts/vendor.js" />
+    <File Path="Scripts\vendor.min.js" Url="Scripts/vendor.min.js" />
+  </Module>
+</Elements>

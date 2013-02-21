@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="782b3f9b-2ac4-4e49-baab-0cbd7040c2be" 
+        solutionId="782b3f9b-2ac4-4e49-baab-0cbd7040c2be" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="Durandal.SharePoint_hosted"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="ed020866-d281-4adf-861c-afa5d5302f51" />
+  </features>
+</package>

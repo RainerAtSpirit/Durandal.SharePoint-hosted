@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Content">
+    <File Path="Content\App.css" Url="Content/App.css" />
+    <File Path="Content\font\fontawesome-webfont.eot" Url="Content/font/fontawesome-webfont.eot" />
+    <File Path="Content\font\fontawesome-webfont.svg" Url="Content/font/fontawesome-webfont.svg" />
+    <File Path="Content\font\fontawesome-webfont.ttf" Url="Content/font/fontawesome-webfont.ttf" />
+    <File Path="Content\font\fontawesome-webfont.woff" Url="Content/font/fontawesome-webfont.woff" />
+    <File Path="Content\font\FontAwesome.otf" Url="Content/font/FontAwesome.otf" />
+    <File Path="Content\images\glyphicons-halflings-white.png" Url="Content/images/glyphicons-halflings-white.png" />
+    <File Path="Content\images\glyphicons-halflings.png" Url="Content/images/glyphicons-halflings.png" />
+    <File Path="Content\images\icon.png" Url="Content/images/icon.png" />
+    <File Path="Content\images\ios-startup-image-landscape.png" Url="Content/images/ios-startup-image-landscape.png" />
+    <File Path="Content\images\ios-startup-image-portrait.png" Url="Content/images/ios-startup-image-portrait.png" />
+    <File Path="Content\bootstrap.css" Url="Content/bootstrap.css" />
+    <File Path="Content\bootstrap.min.css" Url="Content/bootstrap.min.css" />
+    <File Path="Content\bootstrap-responsive.css" Url="Content/bootstrap-responsive.css" />
+    <File Path="Content\bootstrap-responsive.min.css" Url="Content/bootstrap-responsive.min.css" />
+    <File Path="Content\font-awesome.css" Url="Content/font-awesome.css" />
+    <File Path="Content\font-awesome.min.css" Url="Content/font-awesome.min.css" />
+    <File Path="Content\font-awesome-ie7.min.css" Url="Content/font-awesome-ie7.min.css" />
+    <File Path="Content\ie10mobile.css" Url="Content/ie10mobile.css" />
+    <File Path="Content\css.css.bundle" Url="Content/css.css.bundle" />
+    <File Path="Content\css.css" Url="Content/css.css" />
+    <File Path="Content\css.min.css" Url="Content/css.min.css" />
+  </Module>
+</Elements>
