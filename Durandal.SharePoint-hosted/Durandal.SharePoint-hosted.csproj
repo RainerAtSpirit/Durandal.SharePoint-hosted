@@ -19,6 +19,7 @@
     <WspPartId>{fb368b98-2a50-40a7-acd7-0b922cbb17b9}</WspPartId>
     <CspkgPartId>{15e61775-0d09-4570-9b34-ac6bc40e64fa}</CspkgPartId>
     <SqlPackagePartId>{2b36c64d-d3b3-4a31-8d06-f0e27b2206a3}</SqlPackagePartId>
+    <ActivePublishProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>

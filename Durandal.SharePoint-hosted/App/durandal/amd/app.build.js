@@ -7,9 +7,10 @@
   "paths": {
     "text": "durandal/amd/text"
   },
-  "baseUrl": "C:\\Projects\\Durandal.SharePoint-hosted\\Durandal.SharePoint-hosted\\App",
-  "mainConfigFile": "C:\\Projects\\Durandal.SharePoint-hosted\\Durandal.SharePoint-hosted\\App\\main.js",
+  "baseUrl": "c:\\Projects\\Durandal.SharePoint-hosted\\Durandal.SharePoint-hosted\\App",
+  "mainConfigFile": "c:\\Projects\\Durandal.SharePoint-hosted\\Durandal.SharePoint-hosted\\App\\main.js",
   "include": [
+    "main-built",
     "main",
     "durandal/app",
     "durandal/composition",
@@ -37,7 +38,7 @@
   "exclude": [],
   "keepBuildDir": true,
   "optimize": "uglify2",
-  "out": "C:\\Projects\\Durandal.SharePoint-hosted\\Durandal.SharePoint-hosted\\App\\main-built.js",
+  "out": "c:\\Projects\\Durandal.SharePoint-hosted\\Durandal.SharePoint-hosted\\App\\main-built.js",
   "pragmas": {
     "build": true
   },
